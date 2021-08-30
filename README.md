@@ -1,4 +1,4 @@
-hello, Welcome.
+hello, Welcome to my temporary repository.
 
 You will need to download adobe xd to view and play the "BOTB Spinner(view only)" prototype. 
 
@@ -11,8 +11,10 @@ The links below are prototype links to some of my past works.
 
 < https://www.figma.com/proto/VaCszmEU9g2uMSaLmmPAQB/Be-Awesome-Shoppe-Final-Copy?scaling=min-zoom&node-id=535%3A3047 >
 
-UX process (i.e. personas, journey maps, scenarios etc.) < https://drive.google.com/drive/folders/1mhfmo0WcEnQZ31NgbxGKXYRacovVtOsq?usp=sharing >
+UX process (i.e. rescearch,personas, journey maps, scenarios etc.) < https://drive.google.com/drive/folders/1mhfmo0WcEnQZ31NgbxGKXYRacovVtOsq?usp=sharing >
 
 Prototype video link < https://drive.google.com/drive/folders/1HeMxsl6TBjTRt79H4wap9knJbD20p9t0?usp=sharing >
+
+Thank you for taking the time to look at some of my projects.
 
 All the links above are for viewing only
