@@ -1,6 +1,4 @@
-hello, Welcome to my temporary repository.
-
-You will need to download adobe xd to view and play the "BOTB Spinner(view only)" prototype. 
+hello, Welcome to my temporary repository. 
 
 
 The links below are prototype links to some of my past works.
