@@ -2,9 +2,9 @@ hello, Welcome to my temporary repository.
 
 CASE STUDY Link :
 
-https://medium.com/@nanansiah/t-o-advocacy-461a93c2a429
+< https://medium.com/@nanansiah/t-o-advocacy-461a93c2a429 >
 
-https://medium.com/@nanansiah/making-second-hand-clothes-your-first-choice-with-doppelganger-41d4dd496355
+< https://medium.com/@nanansiah/making-second-hand-clothes-your-first-choice-with-doppelganger-41d4dd496355 >
 
 
 
