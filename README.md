@@ -18,7 +18,10 @@ The links below are prototype links to some of my past works.
 
 
 
-UX process (i.e. rescearch,personas, journey maps, scenarios etc.) < https://drive.google.com/drive/folders/1mhfmo0WcEnQZ31NgbxGKXYRacovVtOsq?usp=sharing >
+UX process (i.e. rescearch,personas, journey maps, scenarios etc.) 
+
+< https://drive.google.com/drive/folders/1mhfmo0WcEnQZ31NgbxGKXYRacovVtOsq?usp=sharing >
+
 
 Prototype video link < https://drive.google.com/drive/folders/1HeMxsl6TBjTRt79H4wap9knJbD20p9t0?usp=sharing >
 
