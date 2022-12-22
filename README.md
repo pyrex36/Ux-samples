@@ -10,11 +10,11 @@ CASE STUDY Link :
 
 The links below are prototype links to some of my past works.
 
-< https://www.figma.com/proto/vKxfnot34ZXHY1k36kITbx/TOWIT-Web-Copy?node-id=439%3A0&viewport=493%2C398%2C0.028599344193935394&scaling=min-zoom >
+< https://www.figma.com/proto/vKxfnot34ZXHY1k36kITbx/TOWIT-Web-(Copy)?page-id=435%3A4722&node-id=439%3A0&viewport=689%2C636%2C0.06&scaling=min-zoom&starting-point-node-id=439%3A0 >
 
 < https://xd.adobe.com/view/5654697f-da7c-4265-af8e-a40715487573-0307/ >
 
-< https://www.figma.com/proto/VaCszmEU9g2uMSaLmmPAQB/Be-Awesome-Shoppe-Final-Copy?scaling=min-zoom&node-id=535%3A3047 >
+< https://www.figma.com/proto/VaCszmEU9g2uMSaLmmPAQB/Be-Awesome-Shoppe---Final-(Copy)?page-id=1%3A2&node-id=535%3A3047&viewport=427%2C-529%2C0.17&scaling=min-zoom&starting-point-node-id=535%3A3047 >
 
 
 
